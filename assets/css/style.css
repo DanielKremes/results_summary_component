@@ -5,6 +5,7 @@
 
   /* color header */
   --black: #000;
+  --color-footer-header: #4d4646;
 
   /* background */
   --light-slate-blue: #7857ff;
@@ -166,7 +167,9 @@ body,
   color: var(--cobalt-blue);
 }
 
-#memory, #verbal, #visual { 
+#memory,
+#verbal,
+#visual {
   margin: 0.2rem;
 }
 
@@ -214,7 +217,7 @@ body,
 
 .dark .header,
 .dark .footer {
-  background-color: #2b2727;
+  background-color: var(--color-footer-header);
   color: var(--white);
 }
 
