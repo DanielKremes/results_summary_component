@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+  
+  <title>Frontend Mentor | Results summary component</title>
+
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/responsible.css">
+  <link rel="stylesheet" href="assets/css/scrollbar.css">
+
+</head>
+<body>
+
+  <header class="header">
+    <h1 class="header__title">Results summary component</h1>
+    <button type="button" onclick="toggleTheme()" id="theme-button">Dark Mode</button>
+  </header>
+
+  <main class="container">
+    
+    <section class="container_child_one">
+      <div class="container_child_one_title">
+        <h2>Your Result</h2>
+      </div>
+
+      <div class="circle">
+        <div class="divider">
+          <p><span class="span_circle">76</span></p>
+          <p>of 100</p>
+        </div>
+      </div>
+      
+      <div class="container_child_one_paragraph">
+        <h2>Great</h2>
+        <p>You scored higher than 65% of the people who have taken these tests.</p>
+      </div>
+
+    </section>
+
+    <section class="container_child_two">
+
+      <div class="container_child_two_title">
+        <h2>Summary</h2>
+      </div>
+
+      <div class="container_child_two_items">
+        <div>
+          <div>
+            <img src="assets/images/icon-reaction.svg" alt="icon react">
+            <span id="reaction">Reaction</span>
+          </div>
+          <span class="container_child_two_items_span_one"
+          >80 <span class="container_child_two_items_span_two">/ 100</span></span>
+        </div>
+        <div>
+          <div>
+            <img src="assets/images/icon-memory.svg" alt="icon memory">
+            <span id="memory">Memory</span>
+          </div>
+          <span class="container_child_two_items_span_one">92 <span class="container_child_two_items_span_two">/ 100</span></span>
+        </div>
+        <div>
+          <div>
+            <img src="assets/images/icon-verbal.svg" alt="icon Verbal">
+            <span id="verbal">Verbal</span>
+          </div>
+          <span class="container_child_two_items_span_one">61 <span class="container_child_two_items_span_two">/ 100</span></span>
+        </div>
+        <div>
+          <div>
+            <img src="assets/images/icon-visual.svg" alt="icon visual">
+            <span id="visual">Visual</span>
+          </div>
+          <span class="container_child_two_items_span_one">72 <span class="container_child_two_items_span_two">/ 100</span></span>
+        </div>
+      </div>
+
+      <button type="button" class="button">Continue</button>
+    </section>
+  </main>
+  
+  <footer class="footer">
+    <div class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+      Coded by <a href="https://www.linkedin.com/in/daniel-kremes/" target="_blank">Daniel Renato Kremes </a> ❤️
+  </footer>
+
+  <script src="assets/js/script.js" defer></script>
+
+  </div>
+</body>
+</html>
