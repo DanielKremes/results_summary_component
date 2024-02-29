@@ -1,14 +1,13 @@
-## [Veja o site do projeto clicando aqui, ou clique na imagem](https://results-summary-component-delta-drab.vercel.app/)
+## [Veja o site do projeto clicando aqui, ou clique na imagem](https://interactive-rating-component-main-eight-kappa.vercel.app/index.html)
 
 ## Video do projeto
-https://github.com/DanielKremes/results_summary_component/assets/145404663/fb5e4427-c7fd-437a-9848-443cc43afaad
-
+# - em produção
 
 ## Versão mobile:
-## [![](https://github.com/DanielKremes/results_summary_component/assets/145404663/2fbc75cf-3c4c-46eb-aa85-3d853f43f2c5)](https://results-summary-component-delta-drab.vercel.app/)
+## [![](https://github.com/DanielKremes/results_summary_component/assets/145404663/410e2905-d855-4c1c-9999-8271e9b038b0)](https://interactive-rating-component-main-eight-kappa.vercel.app/index.html)
 
 ## Versão desktop
-## [![](https://github.com/DanielKremes/results_summary_component/assets/145404663/d029ed76-f4a0-47c4-aaee-453cc2643f77)](https://results-summary-component-delta-drab.vercel.app/)
+## [![](https://github.com/DanielKremes/results_summary_component/assets/145404663/60db4ff8-b130-432d-bb70-79617d28e09a)](https://interactive-rating-component-main-eight-kappa.vercel.app/index.html)
 
 ## Conhecimentos usados
 - JAVASCRIPT (toggle,seletores de id e classes)
@@ -21,9 +20,11 @@ https://github.com/DanielKremes/results_summary_component/assets/145404663/fb5e4
   
 - VARIAVEIS CSS
 
-## Criador 
+## Criador
+
 - Daniel Renato Kremes
 ## Contato
+
 - [Linkedin](https://www.linkedin.com/in/daniel-kremes-94919227b/)
   
 ## Links adicionais
