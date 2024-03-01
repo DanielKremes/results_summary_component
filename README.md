@@ -1,15 +1,13 @@
-## [Veja o site do projeto clicando aqui, ou clique na imagem](https://interactive-rating-component-main-eight-kappa.vercel.app/)
+## [Veja o site do projeto clicando aqui, ou clique na imagem](https://results-summary-component-delta-drab.vercel.app/)
 
 ## Video do projeto
-[video.webm](https://github.com/DanielKremes/faq_accordion/assets/145404663/9013814e-9626-45b4-853b-1cc4b19ccfbc)
-
+[video_results_summary_component.webm](https://github.com/DanielKremes/results_summary_component/assets/145404663/5b049a78-1b65-4ca8-a43c-cf04ca178a51)
 
 ## Versão mobile:
-## [![](https://github.com/DanielKremes/faq_accordion/assets/145404663/7730ef54-558c-4e39-86cd-9e9586760218)](https://interactive-rating-component-main-eight-kappa.vercel.app/)
+## [![](https://github.com/DanielKremes/results_summary_component/assets/145404663/fcd4ec34-24a3-4db2-8d82-df9eff90b0f7)](https://results-summary-component-delta-drab.vercel.app/)
 
 ## Versão desktop
-## [![](https://github.com/DanielKremes/faq_accordion/assets/145404663/51ef8401-0539-4153-9400-1eaa21783428)](https://interactive-rating-component-main-eight-kappa.vercel.app/)
-
+## [![](https://github.com/DanielKremes/results_summary_component/assets/145404663/bfc2ac64-8978-420c-9c35-981e9856465c)](https://results-summary-component-delta-drab.vercel.app/)
 
 ## Conhecimentos usados
 - JAVASCRIPT (toggle,seletores de id e classes)
@@ -41,4 +39,4 @@
 - [HTML 5](https://www.w3schools.com/html/)
 
 ## Ultima atualização do projeto
-- 📆 01/03/2024 ⏲️ 16:00
+- 📆 01/03/2024 ⏲️ 17:41
